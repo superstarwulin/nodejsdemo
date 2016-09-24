@@ -1,0 +1,7 @@
+{
+  "name": "mongodbdemo",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mongodb": "^2.1.18"
+  }
+}
